@@ -4,7 +4,7 @@
 
 | ID | MIUI Name | Device Name | Codename |
 | --- | --- | --- | --- |
-| 344 | HMNote5 | Xiaomi Mi 6x (China) | wayne |
+| 344 | MI6X | Xiaomi Mi 6x (China) | wayne |
 
 ### XDA Main Thread:
 [Go here](https://forum.xda-developers.com/android/software-hacking/devices-yshalsager-t3741446)
